@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+
+/* .blogPost {
+    width: 60%;
+    background-color: #fff;
+} */
+
+/* .sidebar{
+    width: 30%;
+    background-color: #fff;
+} */
